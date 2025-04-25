@@ -1,0 +1,11 @@
+setup.py
+DataEngineeringAzureE2E.egg-info/PKG-INFO
+DataEngineeringAzureE2E.egg-info/SOURCES.txt
+DataEngineeringAzureE2E.egg-info/dependency_links.txt
+DataEngineeringAzureE2E.egg-info/requires.txt
+DataEngineeringAzureE2E.egg-info/top_level.txt
+dags/__init__.py
+dags/wikipedia_flow.py
+pipelines/__init__.py
+pipelines/wikipedia_pipeline.py
+script/__init__.py

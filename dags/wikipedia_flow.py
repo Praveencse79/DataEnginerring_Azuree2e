@@ -12,8 +12,8 @@ from pipelines.wikipedia_pipeline import extract_wikipedia_data, transform_wikip
 dag = DAG(
     dag_id='wikipedia_flow',
     default_args={
-        "owner": "Yusuf Ganiyu",
-        "start_date": datetime(2023, 10, 1),
+        "owner": "Praveen Yadav",
+        "start_date": datetime(2025, 04, 22),
     },
     schedule_interval=None,
     catchup=False
